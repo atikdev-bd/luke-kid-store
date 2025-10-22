@@ -1,2 +1,13 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+.mySwiper {
+  width: 100%;
+  height: 800px;
+}
+
+.mySwiper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
