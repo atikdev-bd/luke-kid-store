@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../../assets/Untitled_design-removebg-preview.png";
+import { NavLink } from "react-router";
 
 const Navbar = () => {
   return (
@@ -39,7 +40,7 @@ const Navbar = () => {
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 space-x-2">
-          <li>Home</li>
+          <NavLink to="/">Home</NavLink>
           <li>Profile</li>
         </ul>
       </div>

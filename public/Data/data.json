@@ -1,0 +1,99 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Little Horse",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving. Kids can build anything they imagine, from houses to vehicles.",
+    "pictureURL": "https://i.ibb.co.com/gbgf1H4G/3d-children-s-plush-unicorn.jpg",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Hot Wheels Racing Track Set",
+    "sellerName": "Speedy Toys",
+    "sellerEmail": "support@speedytoys.com",
+    "price": 34.99,
+    "rating": 4.5,
+    "availableQuantity": 50,
+    "description": "An exciting race track set with loop-de-loops and jumps for endless car racing fun. Includes two Hot Wheels cars.",
+    "pictureURL": "https://i.ibb.co.com/TBhNLWmW/view-3d-toy-like-train-model.jpg",
+    "subCategory": "Vehicles"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Barbie Dreamhouse Doll Set",
+    "sellerName": "Doll World",
+    "sellerEmail": "sales@dollworld.com",
+    "price": 89.99,
+    "rating": 4.8,
+    "availableQuantity": 30,
+    "description": "A luxurious Barbie Dreamhouse featuring furniture, accessories, and two dolls. Encourages imaginative play.",
+    "pictureURL": "https://i.ibb.co.com/qMPWSnZG/puppet-4512888-1280.jpg",
+    "subCategory": "Dolls"
+  },
+  {
+    "toyId": 4,
+    "toyName": "Remote Control Monster Truck",
+    "sellerName": "RC Hub",
+    "sellerEmail": "info@rchub.com",
+    "price": 59.99,
+    "rating": 4.6,
+    "availableQuantity": 40,
+    "description": "A powerful 4x4 remote control monster truck designed for off-road adventures. Durable and rechargeable.",
+    "pictureURL": "https://i.ibb.co.com/RpxMXtZ9/Monstertruck.jpg",
+    "subCategory": "Remote Control"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Plush Teddy Bear",
+    "sellerName": "Cuddle Corner",
+    "sellerEmail": "hello@cuddlecorner.com",
+    "price": 24.99,
+    "rating": 4.9,
+    "availableQuantity": 100,
+    "description": "A soft, cuddly teddy bear that makes the perfect bedtime companion for kids of all ages.",
+    "pictureURL": "https://i.ibb.co.com/wFG0hG7S/toypanda.jpg",
+    "subCategory": "Stuffed Animals"
+  },
+  {
+    "toyId": 6,
+    "toyName": "NERF Elite Blaster Gun",
+    "sellerName": "PlayZone",
+    "sellerEmail": "sales@playzone.com",
+    "price": 39.99,
+    "rating": 4.4,
+    "availableQuantity": 60,
+    "description": "Blast foam darts up to 90 feet with this high-performance NERF Elite blaster. Safe and fun for kids 8+.",
+    "pictureURL": "https://i.ibb.co.com/7NyH20KB/watergun.jpg",
+    "subCategory": "Action Toys"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Wooden Train Set",
+    "sellerName": "EcoToys",
+    "sellerEmail": "info@ecotoys.com",
+    "price": 44.99,
+    "rating": 4.6,
+    "availableQuantity": 45,
+    "description": "Classic wooden train set with magnetic cars and wooden tracks. Promotes coordination and imagination.",
+    "pictureURL": "https://i.ibb.co.com/gLjZ2QcX/27654985207827057.jpg",
+    "subCategory": "Educational Toys"
+  },
+  
+  {
+    "toyId": 10,
+    "toyName": "Spider-Man Action Figure",
+    "sellerName": "Hero Hub",
+    "sellerEmail": "support@herohub.com",
+    "price": 29.99,
+    "rating": 4.9,
+    "availableQuantity": 70,
+    "description": "Highly detailed Spider-Man action figure with multiple points of articulation. Perfect for Marvel fans.",
+    "pictureURL": "https://i.ibb.co.com/VpH65Ppb/Marvel-Ultimate-Spider-Man-Web-Warriors.jpg",
+    "subCategory": "Action Figures"
+  }
+]

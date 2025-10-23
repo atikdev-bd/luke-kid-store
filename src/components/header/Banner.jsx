@@ -14,6 +14,7 @@ import { Pagination, Navigation } from "swiper/modules";
 const Banner = () => {
   return (
     <div>
+       
       <Swiper
         spaceBetween={30}
         pagination={{ clickable: true }}
